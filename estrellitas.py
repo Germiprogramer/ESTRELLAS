@@ -2,7 +2,6 @@
 from turtle import *
 n =9
 
-
 def estrella(n):
     color("red","white")
     setposition(-150,0)
