@@ -1,6 +1,7 @@
 #tan solo me deja modificar el numero de puntas desde el programa, desgraciadamente no se porque no carga con int(input)
-n =9
 from turtle import *
+n =9
+
 
 def estrella(n):
     color("red","white")
